@@ -1,2 +1,2 @@
-# C-sharp-Programs
-this is for you to boost your programming skill in c#
+# Programs
+this is for you to boosting the ways of solving problem 
